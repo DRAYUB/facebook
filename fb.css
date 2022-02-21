@@ -1,0 +1,127 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+.header
+{
+    background-color:#3A5A98;
+    width: 100%;
+    height: 93px;
+}
+.name
+{
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    color: white;
+    font-size: 47px;
+    margin-top: 4vh;
+    margin-left: 10vw;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}.login
+{
+    float: right;
+    margin-top: 0px;
+    margin-right: 5vw;
+    font-family: Arial;
+    color: white;
+    
+}
+.input
+{
+    width: 90%;
+    height: 20%;
+}
+.button
+{
+    background-color: rgb(25, 105, 209);
+    color: white;
+    padding: 5px;
+    border: 1px solid rgb(25, 105, 209);
+    border: 100px 100px;
+}
+.forgotten {
+    opacity: 0.4;
+    font-size: ;
+}
+    body
+    {
+        background-color: #EDF0F5;
+    ;
+    }
+    .tout
+    { width: 100%;
+        margin-top: 5%;
+        display: flex;
+        justify-content: space-around;
+        margin-left: 51px;
+        
+        
+    }
+    :right
+    {
+        margin-left: 
+    }
+     table input
+    {
+        border: 1px solid grey;
+        width: 80px;
+        margin-top: 10px;
+        font-size: 10px;
+    }
+    .end
+
+    {display: flex;
+        font-size: 10px;
+        margin-top: 10px;
+    }
+h2
+{margin-top: 81px;
+    margin-bottom: 8px;}
+a
+{
+font-size: 13px;
+margin-bottom: 360px;
+;
+}
+.blue
+{
+ color: #3A5A98;
+ font-size: ;   
+}
+table
+{
+    font-size: 0.8vw;
+    margin-top: 10px
+}
+figure{
+    display: flex;justify-content: baseline;
+    margin-top: 25px;
+}
+#button
+{
+    background-color: #5C9548;
+    color: white;
+    width: 85px;
+    height: 25px;
+    border: none;
+    box-decoration-break: clone;
+    
+} p
+{width: 70%;
+    font-size: 10px;
+    margin-top: 20px;
+    border-top: 2px solid grey;
+    padding-top: 10px;
+}
+select
+{
+    font-size: 10px;
+}
+.radio
+{
+    font-size: 10px;
+    display: flex;
+    justify-content: left;
+}
